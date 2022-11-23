@@ -6,9 +6,9 @@ Create an application that will do below
 + Accept a source JSON structure
 + Accept a target JSON structure
 + Accept a mapping (provided in a CSV format)
-+ Build an app that will generate the code required to transform the source JSON structure to target JSON structure based on the mapping<font color = red> * Key Feature</font>
++ Build an app that will generate the code required to transform the source JSON structure to target JSON structure based on the mapping[***Key Feature***]
 + The generated code should preferably be Python or NodeJS.
-+ If you are using any transformation libraries like JQ/JSONATA/JOLT to achieve the mapping and transformation, the application should auto generate the spec files needed for these libraries <font color = red> * Key Feature</font>
++ If you are using any transformation libraries like JQ/JSONATA/JOLT to achieve the mapping and transformation, the application should auto generate the spec files needed for these libraries [***Key Feature***]
 + Application should be generic enough to accept different source/target/mapping inputs and dynamically arrive at the required code to do the conversion.
 
 ## Code Executor 
@@ -42,4 +42,4 @@ Create an application that will do below
     + example : <PR team1>
 + Create a file called TestMe.md and mention  how to start the app and if any dependencies have to be downloaded to run the app locally
 
-<font color = red> *** Try not to use firebase or any internet provided services for creating or running the apps </font>
+***Try not to use firebase or any internet provided services for creating or running the apps***
