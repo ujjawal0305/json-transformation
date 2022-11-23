@@ -25,6 +25,7 @@ Create an application that will do below
 
 ### Input Data
 + Refer to the below path in repo for sample data
+       
        - data
         |- sample_1
         |- sample_2
